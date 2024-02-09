@@ -1,6 +1,7 @@
 # PF-Sprint5
 Proyecto Final del Sprint 5 del curso Analista de Datos impartido por TripleTen.
 
+# Venta de vehículos
 En este proyecto podemos ver gráficas que representan los siguientes parámetros:
 
 * Un histograma que nos muestra la cantidad de vehículos por marca.
